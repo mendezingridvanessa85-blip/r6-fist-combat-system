@@ -1,0 +1,28 @@
+# Roblox Studio place and model files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxm.lock
+*.rbxl.backup
+*.rbxlx.backup
+*.rbxm.backup
+*.rbxl.autosave
+*.rbxlx.autosave
+
+# Local exports, recovery data, and generated captures
+RBX_ANIMSAVES/
+*.log
+*.tmp
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional local Rojo tooling
+node_modules/
+*.sourcemap.json
