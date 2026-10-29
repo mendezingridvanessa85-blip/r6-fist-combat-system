@@ -1,4 +1,4 @@
--- Discord: dogi0704_22601 | Roblox: Kj52058
+-- Developed by Dogi
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
