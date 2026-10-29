@@ -1,5 +1,7 @@
 # R6 Fist Combat System
 
+**Developed by Dogi**
+
 A server-authoritative R6 melee combat system for Roblox Studio. Client input stays responsive while the server validates damage, targets, range, attack order, cooldowns, and combat states.
 
 ## Features
