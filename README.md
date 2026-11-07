@@ -1,7 +1,7 @@
 # R6 Fist Combat System
 
 **Made by Dogi**  
-Roblox accounts: [Carlos837474](https://www.roblox.com/users/profile?username=Carlos837474) and [Kj52058](https://www.roblox.com/users/profile?username=Kj52058)
+Roblox accounts: `Carlos837474` and `Kj52058`
 
 A server-authoritative R6 melee combat system for Roblox Studio. Client input stays responsive while the server validates damage, targets, range, attack order, cooldowns, and combat states.
 
